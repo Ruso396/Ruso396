@@ -1,27 +1,33 @@
 <div align="center">
 
-<!-- HEADER BANNER WITH DARK THEME -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:0D1B2A,60:1B0A2E,100:2D0A4E&height=300&section=header&text=KALAM%20RUSO%20K&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20%7C%20Mobile%20Dev%20⚡&descAlignY=56&descAlign=50&descSize=20" alt="header banner" />
+<!-- GLOW HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,20:0A1628,50:1A0A30,80:2D0A4E,100:0F172A&height=350&section=header&text=✨%20KALAM%20RUSO%20K%20✨&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=%F0%9F%94%A5%20Full%20Stack%20%7C%20Mobile%20%7C%20React%20Specialist%20%F0%9F%94%A5&descAlignY=55&descAlign=50&descSize=18" alt="header banner" />
 
 <br/>
 
-<!-- TYPING SVG WITH DARK THEME -->
+<!-- TYPING SVG WITH GLOW -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=🚀%20Full%20Stack%20Developer;📱%20Mobile%20Application%20Developer;⚛️%20React%20Ecosystem%20Specialist;🔌%20REST%20API%20%7C%20UI%2FUX%20%7C%20Clean%20Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%F0%9F%9A%80%20Full%20Stack%20Developer;%F0%9F%93%B1%20Mobile%20Application%20Developer;%E2%9A%9B%EF%B8%8F%20React%20%26%20Next.js%20Specialist;%F0%9F%94%97%20REST%20API%20%7C%20UI%2FUX%20%7C%20Clean%20Code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- STATS BADGES - DARK THEME -->
+<!-- BADGES WITH GLOW EFFECTS -->
 <img src="https://komarev.com/ghpvc/?username=Ruso396&label=👁️%20PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Ruso396?label=⭐%20FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white" alt="Followers" />
 <img src="https://img.shields.io/badge/📍%20LOCATION-Tamil%20Nadu%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/💻%20STATUS-Active%20Developer-06D6A0?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/🏆%20SHIPPED-20%2B%20Apps-A855F7?style=for-the-badge&logo=rocket&logoColor=white" alt="Shipped" />
 
 <br/><br/>
 
-<!-- DIVIDER - NEON GLOW -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:A855F7&height=3" alt="divider" />
+<!-- NEON DIVIDER WITH ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,30:7C3AED,60:A855F7,100:00F5FF&height=4" alt="divider" />
+
+<br/>
+
+<!-- ADDING A SMALL ANIMATED WAVE -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="wave divider" />
 
 </div>
 
