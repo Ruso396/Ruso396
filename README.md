@@ -1,3 +1,5 @@
+# KALAM RUSO K - Full Stack & Mobile Developer
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:00D4FF,70:4F46E5,100:A855F7&height=300&section=header&text=KALAM%20RUSO%20K&fontSize=58&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descAlignY=54&descAlign=50&descSize=19" alt="header banner" />
@@ -92,7 +94,7 @@ status:      "compiling ideas into production code..."
 [2 YEARS AGO]  → Wrote my first "Hello World" and got hooked on the console.log() dopamine.
 [1.5 YEARS]    → Fell in love with React — components, state, and the DOM finally made sense.
 [1 YEAR]       → Went full-stack: Node.js, Express, MongoDB, MySQL, PostgreSQL, REST APIs.
-[6 MONTHS]     → Jumped into mobile with React Native & Flutter — one codebase, every screen.
+[6 MONTHS]     → Jumped into mobile with React Native — one codebase, every screen.
 [TODAY]        → Shipping 20+ web & mobile products, chasing clean architecture and speed.
 ```
 
@@ -103,7 +105,7 @@ status:      "compiling ideas into production code..."
 ### 🎯 Current Focus
 
 - Building performant, scalable **full-stack** products
-- Sharpening **mobile-first** engineering with React Native & Flutter
+- Sharpening **mobile-first** engineering with React Native
 - Designing clean, well-documented **REST APIs**
 - Exploring advanced **Next.js** patterns & edge deployment
 - Refining **UI/UX** instincts — motion, spacing, and micro-interactions
@@ -146,7 +148,7 @@ status:      "compiling ideas into production code..."
 
 - Shipped 20+ production web &amp; mobile applications
 - Designed and integrated REST APIs across every project
-- Built cross-platform mobile apps with React Native &amp; Flutter
+- Built cross-platform mobile apps with React Native
 - Owned features end-to-end: UI, API, database, deployment
 
 </td>
@@ -172,7 +174,6 @@ status:      "compiling ideas into production code..."
 | REST API Design | ██████████████████░░ 90% |
 | MySQL / MongoDB / PostgreSQL | █████████████████░░░ 85% |
 | Tailwind CSS / UI-UX | ██████████████████░░ 88% |
-| Flutter | ███████████████░░░░░ 75% |
 
 <sub>Self-assessed proficiency — always a work in progress. 🌱</sub>
 
@@ -231,7 +232,7 @@ slowly moving from *user* of open source to *contributor*.
 
 ### 🧱 Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,flutter&theme=dark&perline=7" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express&theme=dark&perline=7" alt="frameworks" />
 
 ### 🎨 Frontend
 
@@ -239,10 +240,9 @@ slowly moving from *user* of open source to *contributor*.
 
 ### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark&perline=7" alt="mobile stack" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark&perline=7" alt="mobile stack" />
 <br/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
 ### ⚙️ Backend
 
@@ -428,89 +428,6 @@ jobs:
 </div>
 
 <!-- ============================================================ -->
-<!-- FEATURED PROJECTS -->
-<!-- ============================================================ -->
-
-## 💼 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Scale Studio
-Interior Design **Lead Generation Platform** — captures and qualifies leads
-for interior design businesses with a conversion-focused frontend.
-
-`React` `Node.js` `REST API` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 FixGo
-Service Marketplace **mobile app** connecting customers with verified
-service providers, with booking, tracking, and in-app messaging.
-
-`React Native` `Node.js` `MongoDB` `JWT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🪙 Thangameen
-Digital **Gold Investment Application** — lets users buy, track, and manage
-gold investments with live pricing and secure transactions.
-
-`React Native` `Express.js` `PostgreSQL` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### 👷 Work Connect
-**Workforce Management App** for scheduling, attendance, and task tracking
-across distributed teams.
-
-`React` `Node.js` `MySQL` `JWT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 Billing & Invoice Management System
-End-to-end billing platform — generates, tracks, and manages invoices with
-automated calculations and exportable reports.
-
-`React` `Express.js` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎉 Kaimanam
-**Event Management Platform** for creating, promoting, and managing events
-with RSVP tracking and attendee management.
-
-`React` `Node.js` `MongoDB` `Cloudinary`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>🔗 Add live-demo / repo badges under each project once it's public, e.g.</sub>
-
-```md
-[![Repo](https://img.shields.io/badge/View-Repository-00F5FF?style=for-the-badge&logo=github)](your-repo-url-here)
-```
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:4F46E5,100:A855F7&height=4" alt="divider" />
-</div>
-
-<!-- ============================================================ -->
 <!-- FUN FACTS -->
 <!-- ============================================================ -->
 
@@ -518,7 +435,7 @@ with RSVP tracking and attendee management.
 
 ```js
 const kalam = {
-  code:        ["React", "Node.js", "React Native", "Flutter"],
+  code:        ["React", "Node.js", "React Native"],
   askMeAbout:  ["React", "REST APIs", "Mobile Apps", "UI/UX"],
   funFact:     "console.log() is basically my rubber duck 🦆",
   currentBug:  "It's not a bug, it's an undocumented feature 😅",
