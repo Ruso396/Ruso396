@@ -1,24 +1,27 @@
-# KALAM RUSO K - Full Stack & Mobile Developer
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:00D4FF,70:4F46E5,100:A855F7&height=300&section=header&text=KALAM%20RUSO%20K&fontSize=58&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Application%20Developer&descAlignY=54&descAlign=50&descSize=19" alt="header banner" />
+<!-- HEADER BANNER WITH DARK THEME -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,30:0D1B2A,60:1B0A2E,100:2D0A4E&height=300&section=header&text=KALAM%20RUSO%20K&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20%7C%20Mobile%20Dev%20⚡&descAlignY=56&descAlign=50&descSize=20" alt="header banner" />
 
 <br/>
 
+<!-- TYPING SVG WITH DARK THEME -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=Full+Stack+Developer;Mobile+Application+Developer;React+Ecosystem+Specialist;REST+API+%7C+UI%2FUX+%7C+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=🚀%20Full%20Stack%20Developer;📱%20Mobile%20Application%20Developer;⚛️%20React%20Ecosystem%20Specialist;🔌%20REST%20API%20%7C%20UI%2FUX%20%7C%20Clean%20Code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ruso396&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Ruso396?label=FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/badge/LOCATION-Tamil%20Nadu%2C%20India-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<!-- STATS BADGES - DARK THEME -->
+<img src="https://komarev.com/ghpvc/?username=Ruso396&label=👁️%20PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Ruso396?label=⭐%20FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/badge/📍%20LOCATION-Tamil%20Nadu%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/💻%20STATUS-Active%20Developer-06D6A0?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:4F46E5,100:A855F7&height=4" alt="divider" />
+<!-- DIVIDER - NEON GLOW -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:A855F7&height=3" alt="divider" />
 
 </div>
 
