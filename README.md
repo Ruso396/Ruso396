@@ -1,8 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> KALAM RUSO K
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:090909,20:0F172A,45:00F5FF,70:4F46E5,100:A855F7&text=KALAM%20RUSO%20K&fontSize=62&fontColor=FFFFFF&fontAlignY=34&animation=twinkling&desc=🚀%20Full%20Stack%20Developer%20%7C%20React%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:0A0A0A,45:0F172A,70:1E1B4B,100:4C1D95&text=KALAM%20RUSO%20K&fontSize=62&fontColor=00F5FF&fontAlignY=34&animation=twinkling&desc=🚀%20Full%20Stack%20Developer%20%7C%20React%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=20" />
 
 <br>
 
