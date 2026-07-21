@@ -181,7 +181,7 @@ status:      "compiling ideas into production code..."
 |---|---|
 | React.js / Next.js | ████████████████████ 95% |
 | JavaScript / TypeScript | ███████████████████░ 92% |
-| React Native | █████████████████░░░ 85% |
+| React Native / Flutter | █████████████████░░░ 85% |
 | Node.js / Express.js | ██████████████████░░ 88% |
 | REST API Design | ██████████████████░░ 90% |
 | MySQL / MongoDB / PostgreSQL | █████████████████░░░ 85% |
