@@ -550,8 +550,6 @@ const kalam = {
 If any of my projects saved you time or taught you something —
 **a star goes a long way.** ⭐
 
-<img src="https://img.shields.io/badge/⭐_Star_my_repos-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Star my repos" />
-
 </div>
 
 <div align="center">
